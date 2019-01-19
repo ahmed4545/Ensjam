@@ -1,7 +1,7 @@
-token= NTI4MjQ2ODk5MjQ1ODQyNDcx.DwfgWw.M4nWGEklv-Ig1Ko3BaLWAEy80gE
+token= NTM2Mjk1NTY4MzY5MjU0NDA0.DyUnyQ.42e9Vr0YrsmyW5oHnArlfaqQuT0
 owner= 290179240098398209
 prefix=n
 status=IDLE
 stayinchannel=true
 songinstatus=false
-game= Music is beautiful at times
+game= 
